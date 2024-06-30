@@ -265,8 +265,6 @@ section.alur {
 
 .gambar-alur {
 	position: relative;
-	top: ;
-	left: ;
 }
 
 .gambar-alur {
@@ -280,7 +278,7 @@ section.alur {
 
 .img-2 {
 	position: relative;
-	top: -7em;
+	top: -10em;
 	left: 10em;
 }
 
@@ -305,7 +303,7 @@ section.alur {
 
 .ketentuan {
 	position: relative;
-	top: -12em;
+	top: -15em;
 	left: -1em;
 }
 .ketentuan {
@@ -327,4 +325,29 @@ section.alur {
 .tulis {
 	color: #cacfc7;
 	margin-left: 5px;
+}
+
+.rekomendasi {
+	position: relative;
+	top: -25em;
+	left: -1em;
+}
+
+.rekomendasi h1 {
+	top: 0;
+	left: 15em;
+	color: #fff;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 4; /* 100% */
+	letter-spacing: 0.25px;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+.rekomendasi img {
+	position: relative;
+	top: 0em;
+	left: 30em;
 }
