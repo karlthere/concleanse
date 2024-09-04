@@ -528,5 +528,17 @@ section.testimoni .content .profile p:nth-child(2) {
 /* review testimoni */
 
 /* testimoni section end */
+.chat-bot {
+	position: fixed;
+	bottom: 40px;
+	right: 10px;
+=	z-index: 10000;
+	background: none;
+	border: none;
+}
 
+.chat-bot img {
+	width: 200px;
+
+}
 /* chat bot*/
