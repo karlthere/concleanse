@@ -97,3 +97,7 @@ ol {
 body section.Content ul {
 	list-style-type: square;
 }
+
+#home img {
+	width: 70px;
+}
