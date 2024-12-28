@@ -2,7 +2,7 @@
 FROM nginx:latest
 
 # Set working directory di dalam container
-WORKDIR /usr/share/nginx/html
+WORKDIR /usr/share/nginx/html*
 
 # Hapus file default di direktori Nginx
 RUN rm -rf ./*
